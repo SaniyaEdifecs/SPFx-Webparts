@@ -4,7 +4,7 @@
     "name": "hello-world",
     "id": "81c06e49-3f91-4bcd-8a5c-8f859790d837",
     "version": "1.0.0.0",
-    "includeClientSideAssets": true
+    "includeClientSideAssets": false
   },
   "paths": {
     "zippedPackage": "solution/helloWorld.sppkg"
